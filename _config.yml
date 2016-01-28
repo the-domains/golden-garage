@@ -1,0 +1,28 @@
+name: golden-garage
+favicon: null
+layout_spectrum: 0.334342903457582
+typography_spectrum: 0.3339407646562904
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.15323063055984676
+  lightness: 0.04224610957317054
+  saturation: 0.8271570669021457
+  rhythmicContrast: 0.49517334648407996
+purpose: []
